@@ -2,9 +2,8 @@ body {
  background-color: black;
  font-family: "Helvetica Neue";
  color: white;
- font-style: bold;
 }
-/*Sets the background color to black and font family to "Helvetica Neue", font color to white, and font style to bold for general cases if not specified otherwise*/
+/*Sets the background color to black and font family to "Helvetica Neue", and font color to white for general cases if not specified otherwise*/
 
 
 ul {
