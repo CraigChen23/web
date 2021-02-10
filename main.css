@@ -4,7 +4,7 @@ body {
  color: white;
  font-style: bold;
 }
-/*Sets the background color to black and font family to "Helvetica Neue", font color to white, and font style to bold for general cases*/
+/*Sets the background color to black and font family to "Helvetica Neue", font color to white, and font style to bold for general cases if not specified otherwise*/
 
 
 ul {
