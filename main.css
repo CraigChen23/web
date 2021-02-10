@@ -2,13 +2,17 @@ body {
  background-color: black;
  font-family: "Helvetica Neue";
  color: white;
+ font-style: bold;
 }
+/*Sets the background color to black and font family to "Helvetica Neue", font color to white, and font style to bold for general cases*/
+
 
 ul {
 	font-style:italic; 
 	font-size: 15px;
 	font-family: "Arial";
 }
+/*Sets the specific words in lists to be italicized, font size 15px, font family to Arial*/
 
 p {
   background-color: white;
@@ -16,20 +20,25 @@ p {
   border-style: dotted;
   color: black;
 }
+/*Sets words specifically within <p> to have a box border around them. The border is dotted black and white while the background of the box is white. The words are black.*/
 
 h1 {
 	font-size: 50px;
 }
+/*Specifically sets words within <h1> to be font size 50 px*/
 
 h2 {
 	font-size: 30px;
 }
+/*Specifically sets words within <h2> to be font size 30 px*/
 
 h3 {
 	font-size: 25px;
 	color: blue;
 }
+/*Specifically sets words within <h2> to be font size 25 px and be colored blue*/
 
 h4 {
 	font-size: 20px;
 }
+/*Specifically sets words within <h2> to be font size 20 px*/
